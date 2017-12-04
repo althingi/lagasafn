@@ -21,6 +21,8 @@ I conclude this, our lagasafn and its underlying assembly is in great need for c
 
 For the same reason most software documentation is written in markdown. It's minimalistic and contains only content with minimal structure and no styling. Plus it's easily parsable to structured HTML if needed.
 
+You can [read the lagasafn in markdown here](https://github.com/althingi/lagasafn/blob/master/md/README.md).
+
 ## Requirements
 
 `Python 2.7`, `pip` and pip modules listed in `requirements.txt`.
